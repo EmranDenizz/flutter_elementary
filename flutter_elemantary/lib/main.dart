@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.grey[400],
           centerTitle: true,
           title:
-              Text('Flutter Exercises', style: TextStyle(color: Colors.black)),
+              Text('Flutter Exercises Emran deniz', style: TextStyle(color: Colors.black)),
         ),
       ),
     );
